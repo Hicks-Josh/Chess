@@ -1,0 +1,164 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Bishop.cpp
+Bishop.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Bishop.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Bishop.h
+Piece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Piece.h
+Board.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Board.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Board.cpp
+Board.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Board.h
+iostream
+-
+vector
+-
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Board.h
+ostream
+-
+string
+-
+map
+-
+Square.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Square.h
+Piece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Piece.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Chess.cpp
+iostream
+-
+string
+-
+Game.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Game.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Game.cpp
+Game.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Game.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Game.h
+set
+-
+map
+-
+Player.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Player.h
+Board.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Board.h
+Square.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Square.h
+Bishop.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Bishop.h
+King.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/King.h
+Knight.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Knight.h
+Pawn.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Pawn.h
+Queen.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Queen.h
+Rook.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Rook.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/King.cpp
+King.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/King.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/King.h
+RestrictedPiece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/RestrictedPiece.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Knight.cpp
+Knight.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Knight.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Knight.h
+Piece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Piece.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Pawn.cpp
+Pawn.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Pawn.h
+Queen.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Queen.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Pawn.h
+RestrictedPiece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/RestrictedPiece.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Piece.cpp
+Piece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Piece.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Piece.h
+ostream
+-
+string
+-
+Square.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Square.h
+Player.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Player.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Player.cpp
+Player.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Player.h
+Board.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Board.h
+Game.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Game.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Player.h
+iostream
+-
+string
+-
+set
+-
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Queen.cpp
+Queen.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Queen.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Queen.h
+Piece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Piece.h
+Board.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Board.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/RestrictedPiece.cpp
+RestrictedPiece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/RestrictedPiece.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/RestrictedPiece.h
+Piece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Piece.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Rook.cpp
+Rook.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Rook.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Rook.h
+RestrictedPiece.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/RestrictedPiece.h
+Board.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Board.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Square.cpp
+Square.h
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Square.h
+
+/Users/joshhicks/Documents/Homework/Sophmore Year 2019-2020/CSIS 370/Chess Game Finale/Square.h
+
